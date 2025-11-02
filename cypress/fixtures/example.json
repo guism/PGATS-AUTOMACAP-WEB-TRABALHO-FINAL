@@ -1,0 +1,7 @@
+{
+  "name": "Guilherme SM",
+  "email": "hello@cypress.io",
+  "subject": "Dúvida sobre o site",
+  "message": "Olá, tenho uma dúvida sobre como utilizar o site. Poderiam me ajudar? Obrigado!",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
